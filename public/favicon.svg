@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <rect width="32" height="32" rx="6" fill="#0B2B5B"/>
+  <path d="M4 26h24v3H4z" fill="#C8102E"/>
+  <text x="16" y="18" text-anchor="middle" fill="white" font-size="8" font-family="Arial" font-weight="700">M</text>
+</svg>
